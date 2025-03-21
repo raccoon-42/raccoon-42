@@ -1,8 +1,8 @@
-# 🐈‍⬛ AI Enthusiast & AI Engineer Candidate
-🦾 I'm currently working on Fine-Tuning LLMs<br>
-👨‍🎓 I'm pursuing Bachelor's in Computer Engineering @ IZTECH<br>
-🫚 My hobbies are 🎨drawing & 🎸playing guitar <br>
-🌿 and I love the nature. <br>
+# 🐈‍⬛ AI Explorer & AI Engineer in Progress
+🦾 Currently fine-tuning LLMs, tweaking the knobs of intelligence<br>
+👨‍🎓 Studying Computer Engineering @ IZTECH<br>
+🎸🎨 Expressing noise through strings & lines<br>
+🌿 Nature admirer, but mostly inside my head<br>
 
 
 
