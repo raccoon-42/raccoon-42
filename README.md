@@ -1,12 +1,12 @@
-# 🐈‍⬛ AI Explorer & AI Engineer in Progress
-🦾 Currently fine-tuning LLMs, tweaking the knobs of intelligence<br>
+# 🐈‍⬛ Artificial Intelligence Enthusiast
+🦾 Currently fine-tuning LLMs, seeking internship opportunities in AI<br>
 👨‍🎓 Studying Computer Engineering @ IZTECH<br>
 🎸🎨 Expressing noise through strings & lines<br>
 🌿 Nature admirer, but mostly inside my head<br>
 
 
 
-# 💻 Tech Stack:
+#  Knowledge-base:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 <!-- # 📊 GitHub Stats:
